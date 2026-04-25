@@ -1,4 +1,4 @@
-🚀 Virality Engine - Spring Boot Microservice
+Social_Posts - Spring Boot Microservice
 A high-performance Spring Boot microservice that implements atomic Redis guardrails to prevent AI compute runaway in a social media platform with bot interactions.
 
 📋 Table of Contents
